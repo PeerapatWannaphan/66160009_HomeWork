@@ -92,6 +92,6 @@ button:hover {
 
 article img {
     max-width: 40%; /* กำหนดขนาดสูงสุดของรูปภาพ */
-    height: auto; /* รักษาสัดส่วนของรูป */
-    display: block; /* ทำให้แสดงผลเป็นบล็อก */
+    height: auto; 
+    display: block; 
 }
